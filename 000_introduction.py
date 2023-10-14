@@ -8,11 +8,14 @@
 
 # ****** IMPORTANT *******
 # Some files in this tutorial have errors in them, vscode will highlight these errors in colours
-# it will moan at your and spit fire in the mode of errors messages when you run the files
+# it will moan at you and spit fire in the mode of errors messages when you run the files
 # this is purposeful! your task is to amend files without errors and fix ones with errors
 
 # First let's start with a little Python introduction. If you haven't already then install python
 # https://www.python.org/downloads/
+# When you run the installer you need to select the option to add it to your path environment variable
+# Installation steps for windows are here https://docs.python.org/3/using/windows.html#the-full-installer
+
 
 # Python is often classified as a scripting language. used for task automation and writing small programs.
 # Python is also classified as a general-purpose programming language.
