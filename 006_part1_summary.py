@@ -87,6 +87,3 @@ age_as_integer = int(age)  # Casting to an integer
 # Your task is to fix these errors using type conversion and make the code valid.
 
 # Experiment with these concepts and fix the broken examples to gain a deeper understanding of Python's type handling.
-
-# End of Lesson 6
-

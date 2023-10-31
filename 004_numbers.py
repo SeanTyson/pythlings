@@ -8,7 +8,7 @@ stella_dog_years = 2.8
 
 treats_for_years_lived = 2
 
-# After Biscuit and Stella's wonderful birthday celebration, we've tried to reward them with treat
+# After Biscuit and Stella's wonderful birthday celebration, we've tried to reward them with treats
 # but oh no! in the last problem we ended up with fractions of treats
 # We have to make sure they get whole treats.
 

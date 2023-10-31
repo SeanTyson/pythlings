@@ -26,7 +26,7 @@ import math #I'll explain this a bit lower down!
 # Now we can use functions in imported modules by doing module.function()
 
 # Two useful functions in the math module are ceil() and floor() which perform operations on floats.
-# ceil(3.1) will give us 4.0 and floor(2.1) will give us 3.0! (ceiling and floor!)
+# ceil(3.1) will give us 4.0 and floor(2.1) will give us 2.0!
 # However you may notice that it takes floats but also returns floats.
 
 # ----LESSON - CASTING ----
