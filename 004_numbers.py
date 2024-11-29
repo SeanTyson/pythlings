@@ -25,7 +25,7 @@ treats_for_years_lived = 2
 # For example, 5 // 2 would result in 2, not 2.5.
 
 # When you need to round to the nearest integer, you can use the "round()" function
-# Note that if a float is half way between e.g. 1.5 - round is generous and will result in 2!
+# Note that if a float is half way between e.g. 1.5 - round(1.5) is generous and will result in 2!
 
 # ----TASK----
 # We're trying to calculate two values for the doggies.

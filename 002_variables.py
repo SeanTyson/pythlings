@@ -2,6 +2,9 @@
 # In this program, we're going to learn about variables, printing, and sharing toys between dogs.
 
 # First, let's introduce our two dogs, Biscuit and Stella, and their toys.
+
+
+
 biscuit_toys = 5  # Biscuit starts with 5 toys
 stella_toys = 4   # Stella starts with 4 toys
 
